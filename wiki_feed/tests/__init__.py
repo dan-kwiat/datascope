@@ -1,2 +1,2 @@
 from .community import TestWikiFeedCommunity
-from .features import TestWikiFeedFeatures
+from .features import TestWikiFeedFeatures, TestWikiFeedFeaturesHelpers
